@@ -11,3 +11,10 @@ even after deleting files or adding file we have to do commit operation
 if you want a detailed documnetation about the git then type the following command 
                 git --help
 
+# This file has been cloned now into the system folder
+this is a demo for git and github class 
+
+# Girish Valluri
+
+# Teacher
+Shradha Khapra
